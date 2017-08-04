@@ -12,4 +12,6 @@ As stated above, the main purppose is to provide a simple example of git reposit
 
 ## Deployment
 
+This is a simple WEB project, depolyment can be on any web server or even a local file system.
+
 ## How To Contribute
