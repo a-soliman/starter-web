@@ -12,13 +12,8 @@ As stated above, the main purppose is to provide a simple example of git reposit
 
 ## Deployment
 
-<<<<<<< HEAD
 This is a simple WEB project, depolyment can be on any web server or even a local file system.
-=======
---
->>>>>>> 0218ba4f59d1e4429592fb1a5aa03f406ea254c1
 
 ## How To Contribute
-
 
 Please fork this repositort and then issue Pull Requests for review.
