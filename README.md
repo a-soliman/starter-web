@@ -15,3 +15,6 @@ As stated above, the main purppose is to provide a simple example of git reposit
 --
 
 ## How To Contribute
+
+
+Please fork this repositort and then issue Pull Requests for review.
