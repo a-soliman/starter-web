@@ -19,3 +19,5 @@ This is a simple WEB project, depolyment can be on any web server or even a loca
 ## How To Contribute
 
 Please fork this repositort and then issue Pull Requests for review.
+
+### Copyright
