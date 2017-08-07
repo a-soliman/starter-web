@@ -1,8 +1,7 @@
 # Starter Web Project
 
 This is a simple web site to showcase Git and Github.
-Adding a line for rebasing example, 
-more changes from myfeature branch
+Updating for emergency fix after stashing.
 
 ## Introduction
 
